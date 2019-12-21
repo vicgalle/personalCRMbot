@@ -2,6 +2,10 @@
 config.py
 nohup.out
 .DS_Store
+data/
+
+# Thumbnails
+._*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
